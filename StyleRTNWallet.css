@@ -2,7 +2,7 @@
     border-radius: 5px;
     /*background-color: aqua;*/
     padding: 20px;
-    width: 300px;
+    width: 400px;
     text-align: center;
     position: absolute;
     display: inline-block;
@@ -12,12 +12,12 @@
 }
 .pictureContainer{
     height: 300px;
-    width: 300px;
+    width: 400px;
     /*background: blueviolet;*/
 }
 .textContainer{
     height: 100px;
-    width: 300px;
+    width: 400px;
     /*background-color: chartreuse;*/
     padding: 0px;
 }
@@ -41,4 +41,10 @@
 }
 *{
     background-color: white;
+}
+.congratsContainer{
+    background-color: deepskyblue;
+    height: 500px;
+    width: 500px;
+
 }
